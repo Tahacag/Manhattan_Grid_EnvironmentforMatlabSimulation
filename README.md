@@ -13,15 +13,19 @@ function [edit_building_data_mat, edit_building_data_mat_shadowingY ,edit_buildi
 
 output format :
 
-surface 1 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
-surface 2 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
-surface 3 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
-surface 4 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |--->>> first builing
-surface 5 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
-surface 5 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
+*surface 1 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
+*surface 2 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
+*surface 3 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
+*surface 4 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |--->>> first builing
+*surface 5 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
+*surface 5 : [firstpointX firstpointY firstpointZ secondpointX seconpointY secondpointZ thridpointX thirdpointY thirdpointZ] |
 *
 *
 *
+
+function Manhattan_Visualization(edit_building_data_mat)
+You can see the buildings.
+
 
 
 
